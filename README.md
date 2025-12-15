@@ -162,6 +162,10 @@ npm run dev
       <b>Add / Update Employee</b><br/>
       <img width="500px" height="500px" alt="Screenshot 2025-12-15 110658" src="https://github.com/user-attachments/assets/496100ab-7688-454c-97ae-7026faed11c5" />
     </td>
+     <td align="center">
+      <b>Add / Database photo</b><br/>
+      <img width="600px" height="500px" alt="image" src="https://github.com/user-attachments/assets/86683dc0-a144-4f1a-bd6d-669be640ecc6" />
+    </td>
   </tr>
 </table>
 
